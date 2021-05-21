@@ -9,4 +9,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
  Public ;title = 'Property_Binding Tutorial';
  public myId = 'testId';
+ public isDisabled = true;
 }
